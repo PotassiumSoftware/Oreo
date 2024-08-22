@@ -1,0 +1,29 @@
+{
+  "name": "oreo",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node .",
+    "debug": "node . --debug"
+  },
+  "keywords": [],
+  "author": "lunariixx",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "kleur": "^4.1.5",
+    "node-fetch": "^3.3.2"
+  },
+  "description": "Multipurpose Discord bot, of which is open source, oddly enough.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixeliciousx/discord-js-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pixeliciousx/discord-js-template/issues"
+  },
+  "homepage": "https://github.com/Pixeliciousx/discord-js-template#readme"
+}
