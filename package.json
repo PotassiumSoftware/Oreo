@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
-    "start": "node .",
-    "debug": "node . --debug"
+    "start": "node ."
   },
   "keywords": [],
   "author": "lunariixx",

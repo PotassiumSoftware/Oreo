@@ -1,8 +1,5 @@
 
 /node_modules
-config/developers.json
-config/emotes.json
-config/main.js
+lib/config.js
 package-lock.json
-logs/console.txt
 logs/console.txt
