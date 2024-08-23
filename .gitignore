@@ -4,3 +4,5 @@ lib/config.js
 package-lock.json
 logs/console.txt
 logs/commands.txt
+data/guild.json
+data/users/*.json
