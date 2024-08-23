@@ -16,17 +16,11 @@ Bot is a major work in progress, this will be updated once its in a proper publi
 
 # Command List
 
-```
-[] = required
-() = optional
-{} = dependant on required value
-```
-
 **Developer Commands**<br>
 
--   developer [add|remove|list] {userId|mention}
--   eval [string]
--   say [string]
+-   developer
+-   eval
+-   say
 
 **Information Commands**<br>
 
