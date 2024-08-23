@@ -3,3 +3,4 @@
 lib/config.js
 package-lock.json
 logs/console.txt
+logs/commands.txt
