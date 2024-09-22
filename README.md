@@ -12,7 +12,9 @@
 
 # Overview
 
-Bot is a major work in progress, this will be updated once its in a proper public state. I am no longer letting this bot be open source because I have to do very janky stuff because Discord sucks and im too lazy to make a workaround, once an event for guild members being timed out exists, I will return to this. :)
+Bot is a major work in progress, this will be updated once its in a proper public state. — I am no longer letting this bot be open source because I have to do very janky stuff because Discord sucks and im too lazy to make a workaround, once an event for guild members being timed out exists, I will return to this. :)
+
+You may say fuck you Discord in issues if you wish. 
 
 # Command List
 
