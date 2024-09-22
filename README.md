@@ -12,7 +12,7 @@
 
 # Overview
 
-Bot is a major work in progress, this will be updated once its in a proper public state.
+Bot is a major work in progress, this will be updated once its in a proper public state. I am no longer letting this bot be open source because I have to do very janky stuff because Discord sucks and im too lazy to make a workaround, once an event for guild members being timed out exists, I will return to this. :)
 
 # Command List
 
