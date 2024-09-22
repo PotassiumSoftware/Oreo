@@ -6,4 +6,3 @@ logs/console.txt
 logs/commands.txt
 data/guild.json
 data/users/*.json
-data/moderation.json
